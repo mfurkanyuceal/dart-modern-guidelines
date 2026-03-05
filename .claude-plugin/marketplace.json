@@ -1,0 +1,22 @@
+{
+  "name": "dart-claude-marketplace",
+  "owner": {
+    "name": "mfurkanyuceal",
+    "email": "furkanyuceal58@gmail.com"
+  },
+  "metadata": {
+    "description": "Marketplace for Dart Claude Code extensions",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "modern-dart-guidelines",
+      "description": "Enhances Claude Code with modern Dart guidelines up to Dart 3.10 version.",
+      "author": {
+        "name": "mfurkanyuceal",
+        "email": "furkanyuceal58@gmail.com"
+      },
+      "source": "./claude/modern-dart-guidelines"
+    }
+  ]
+}

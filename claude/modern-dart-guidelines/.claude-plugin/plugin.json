@@ -1,0 +1,10 @@
+{
+  "name": "modern-dart-guidelines",
+  "description": "Enhances Claude Code with modern Dart guidelines up to Dart 3.10 version.",
+  "version": "1.0.0",
+  "author": {
+    "name": "mfurkanyuceal",
+    "email": "furkanyuceal58@gmail.com"
+  },
+  "keywords": ["dart", "flutter", "dart-best-practices", "guidelines", "modernize"]
+}
