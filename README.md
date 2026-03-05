@@ -37,7 +37,7 @@ Run the following commands inside a Claude Code session.
 
 2. Install the plugin:
 ```
-/plugin install modern-dart-guidelines@dart-modern-guidelines
+/plugin install modern-dart-guidelines@dart-claude-marketplace
 ```
 
 #### Usage
